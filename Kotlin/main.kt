@@ -4,5 +4,7 @@ var name = "Sarwar"
 print("Hello $name")
 
 print("Hello Kotlin")
-
-var num = 1
+fun main()
+{
+  
+}
