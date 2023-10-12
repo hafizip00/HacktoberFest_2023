@@ -6,4 +6,8 @@ x = 5
 y = "John"
 print(x)
 print(y)
-
+fruits = ["apple", "banana", "cherry"]
+for a in fruits:
+  print(a)
+  if a == "banana":
+    break
