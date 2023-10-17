@@ -2,10 +2,10 @@
 print("Hello Phycharm")
 print("Hello World")
 print("hello Colab")
-x = 5
-y = "John"
-print(x)
-print(y)
+a = 5
+b = "John"
+print(a)
+print(b)
 
 name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
 print(name)
