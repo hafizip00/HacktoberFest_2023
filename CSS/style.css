@@ -2,3 +2,108 @@
   margin: 0%;
   padding: 12%;
 }
+
+
+/* CSS Tricks */
+/* ================== */
+
+/* 1. Flexbox and Grid Layout */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* 2. Media Queries */
+@media (max-width: 768px) {
+    /* CSS rules for small screens */
+}
+
+/* 3. Transitions and Animations */
+.button {
+    transition: all 0.3s ease-in-out;
+}
+
+/* 4. Pseudo-elements and Pseudo-classes */
+button:hover {
+    background-color: #FF5733;
+}
+
+/* 5. Custom Fonts */
+@font-face {
+    font-family: 'YourFont';
+    src: url('your-font.woff') format('woff');
+}
+
+/* 6. CSS Variables (Custom Properties) */
+:root {
+    --main-color: #3498db;
+}
+
+.button {
+    background-color: var(--main-color);
+}
+
+/* 7. Positioning */
+.element {
+    position: relative;
+    z-index: 1;
+    float: right;
+}
+
+/* 8. Box Model */
+.box {
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+}
+
+/* 9. Transforms */
+.element {
+    transform: rotate(45deg);
+}
+
+/* 10. Gradients */
+.button {
+    background: linear-gradient(to bottom, #3498db, #2980b9);
+}
+
+/* 11. Overflow Control */
+.container {
+    overflow: hidden;
+}
+
+/* 12. CSS Frameworks */
+/* Add CSS framework specific styles here */
+
+/* 13. CSS Preprocessors */
+/* Add CSS preprocessor specific styles here */
+
+/* 14. CSS Grid Systems */
+/* Add grid system specific styles here */
+
+/* 15. CSS Transforms */
+/* Add CSS transform specific styles here */
+
+/* 16. Clip-path */
+/* Add clip-path specific styles here */
+
+/* 17. Opacity and Transparency */
+/* Add opacity and transparency specific styles here */
+
+/* 18. CSS Custom Selectors */
+/* Add custom selectors specific styles here */
+
+/* 19. CSS Specificity */
+/* Add specificity-specific styles here */
+
+/* 20. CSS Custom Properties (CSS Variables) */
+/* Add CSS custom properties specific styles here */
+
+/* 21. Selectors */
+/* Add advanced selectors specific styles here */
+
+/* 22. Masking */
+/* Add masking specific styles here */
+
+/* Additional CSS styles can be added below */
